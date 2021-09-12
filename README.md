@@ -87,6 +87,8 @@ Here are a few links that helped me.
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) - Conditional (ternary) operator
 
+- [gitconnected] (https://levelup.gitconnected.com/build-a-note-taking-application-using-vanilla-javascript-c364d088967f) - This is the blog post that I got the idea from. I learned so much by starting this project and following along. 
+
 - [LogRocket Blog](https://blog.logrocket.com/localstorage-javascript-complete-guide/) - This article help with figuring out how to use local storage with javascript.
 
 - [stackoverflow] (https://stackoverflow.com/questions/20855482/preventing-html-and-script-injections-in-javascript) - Preventing HTML and Script injections in Javascript
